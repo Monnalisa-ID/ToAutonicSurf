@@ -1,0 +1,6 @@
+names
+selenium
+undetected-chromedriver
+pyautogui
+fake-useragent
+nordvpn-switcher
